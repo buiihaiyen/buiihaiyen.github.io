@@ -7,6 +7,7 @@ public class Student {
 	private String major;
 	private String danhhieu;
 	private String xeploai;
+	private String demo;
 	
 	public Student() { 
 		
