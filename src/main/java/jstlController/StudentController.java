@@ -24,6 +24,8 @@ public class StudentController {
 		list.add(svl);
 		list.add(sv2); 
 		list.add(sv3); 
+		list.add(sv4); 
+		
 		
 		
 		Map<String, Student> map = new HashMap<String, Student>();
