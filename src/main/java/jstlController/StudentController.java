@@ -20,6 +20,7 @@ public class StudentController {
 		Student svl = new Student("Pham Minh Tuan", 5.5, "Ung dung phan mem",null,null);
 		Student sv2 = new Student("Nguyen Thi Kieu Oanh", 9.5, "Thiet ke trang web", null, null); 
 		Student sv3 = new Student("Le Pham Tuan Kiet", 3.5, "Thiet ke trang web", null,null ); 
+		Student sv4 = new Student("Le Pham Tuan Kiet", 3.5, "Thiet ke trang web", null,null ); 
 		List<Student> list = new ArrayList<Student>(); 
 		list.add(svl);
 		list.add(sv2); 
